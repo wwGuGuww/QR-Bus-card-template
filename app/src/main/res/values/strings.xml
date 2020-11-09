@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">deneme1</string>
+    <string name="o.buslerim">Otabüslerim</string>
+    <string name="cuzdan">TODO</string>
+    <string name="kammera">TODO</string>
+    <string name="yıldız">TODO</string>
+    <string name="kullanıcı">TODO</string>
+    <string name="konum">TODO</string>
+    <string name="profil">profil</string>
+    <string name="ara">ara</string>
+    <string name="c_zdan_m">cüzdanım</string>
+    <string name="kamera">kamera</string>
+    <string name="otobuslerim">otobuslerim</string>
+    <string name="search">arama</string>
+</resources>
